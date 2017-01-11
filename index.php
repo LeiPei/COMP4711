@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-    echo "hello out there, I live.."
+    echo "wayne sucks"
 ?>
 </body>
 </html>
